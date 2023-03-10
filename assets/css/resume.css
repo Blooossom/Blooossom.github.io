@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Archivo&family=Grandstander:wght@100&family=IBM+Plex+Serif:wght@100&family=Xanh+Mono&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap');
 
 .panel-content-inner {
     background-color: rgba(255, 255, 255, 0.7);
@@ -23,7 +24,7 @@
 
 .name {
     color: #000;
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Ubuntu', cursive;
     font-size: 50px;
     font-weight: 800;
     margin-bottom: 0 !important;
@@ -110,7 +111,7 @@
 .resume-body-right .item .item-content .item-content-right .item-title {
     font-size: 1.5rem;
     font-weight: 700;
-    font-family: 'Archivo', sans-serif;
+    font-family: 'Gowun Batang', sans-serif;
 }
 
 .skill .skill-image {
@@ -155,7 +156,7 @@
     font-weight: bold;
     font-size: 1.5rem;
     text-align: center;
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Ubuntu', cursive;
     margin: 10px 0;
 }
 
@@ -165,6 +166,6 @@
 }
 
 .category .item-container .item-content {
-    font-family: 'Archivo', sans-serif;
+    font-family: 'Gowun Batang', sans-serif;
     width: 100%;
 }
