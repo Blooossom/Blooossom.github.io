@@ -33,7 +33,7 @@
 
 .objective {
     display: block;
-    font-family: 'Archivo', sans-serif;
+    font-family: 'Gowun Batang';
     font-size: 1.3rem;
     max-width: 80%;
     margin: 0 auto;
@@ -80,7 +80,7 @@
 
 .language .item .caption {
     font-size: 1rem;
-    font-family: 'Archivo', sans-serif;
+    font-family: 'Gowun Batang';
 }
 
 .resume-body-right {
@@ -111,7 +111,7 @@
 .resume-body-right .item .item-content .item-content-right .item-title {
     font-size: 1.5rem;
     font-weight: 700;
-    font-family: 'Gowun Batang', sans-serif;
+    font-family: 'Gowun Batang';
 }
 
 .skill .skill-image {
@@ -166,6 +166,6 @@
 }
 
 .category .item-container .item-content {
-    font-family: 'Gowun Batang', sans-serif;
+    font-family: 'Gowun Batang';
     width: 100%;
 }
