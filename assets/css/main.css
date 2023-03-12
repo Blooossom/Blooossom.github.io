@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Grandstander&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap');
 
 body {
+  max-width: 150%;
   background-image: url("../res/BackGround.jpg");
   background-position: center;
   background-repeat: no-repeat;
