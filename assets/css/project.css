@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap');
 .panel-content-inner {
     background-color: rgba(255, 255, 255, 0.7);
-    max-width: 90%;
+    max-width: 80%;
     min-width: 80%;
     height: auto;
 }
@@ -65,12 +65,12 @@
     height: 100%;
 }
 .name {
-    font-family: 'Ubuntu' !important;
+    font-family: 'Gowun Batang' !important;
     font-size: 1.8rem !important;
     font-weight: 750;
 }
 .description {
-    font-style: italic;
+    font-weight: 750;
 }
 .date-people {
     list-style: none;

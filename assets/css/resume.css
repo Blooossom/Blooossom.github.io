@@ -3,7 +3,7 @@
 
 .panel-content-inner {
     background-color: rgba(255, 255, 255, 0.7);
-    max-width: 90%;
+    max-width: 80%;
     min-width: 80%;
     height: auto;
 }
@@ -45,7 +45,11 @@
 }
 
 .resume-body-left {
-    width: 35%;
+    width: 50%;
+    padding: 5px;
+}
+.resume-body-center {
+    widows: 100%;
     padding: 5px;
 }
 
@@ -84,7 +88,7 @@
 }
 
 .resume-body-right {
-    width: 65%;
+    width: 50%;
     padding: 5px;
 }
 .resume-body-right .item {
@@ -109,6 +113,34 @@
 }
 
 .resume-body-right .item .item-content .item-content-right .item-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-family: 'Gowun Batang';
+}
+
+
+.resume-body-center .item {
+    padding: 15px 0;
+}
+
+.resume-body-center .item .item-content {
+    display: inline-flex;
+}
+
+.resume-body-center .item .item-content .item-content-left {
+    display: block;
+    width: 25%;
+    font-size: 1rem;
+    font-style: italic;
+    padding: 5px 10px;
+}
+
+.resume-body-center .item .item-content .item-content-right {
+    display: block;
+    width: 75%;
+}
+
+.resume-body-center .item .item-content .item-content-right .item-title {
     font-size: 1.5rem;
     font-weight: 700;
     font-family: 'Gowun Batang';
@@ -153,6 +185,7 @@
 }
 
 .category .category-title {
+    width: 100%;
     font-weight: bold;
     font-size: 1.5rem;
     text-align: center;
